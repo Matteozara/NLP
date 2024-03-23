@@ -3,9 +3,8 @@ Named Entity Recognition (NER) is a natural language processing (NLP) task that 
 <br>
 In this repo there are 3 different versions:
 <br>
-<br>
-- Ner_pretrained: Code to do NER task with a pretrained model
-<br>
-- Ner_BiLstm: Code to implement from scratch a BiLstm to do NER
-<br>
-- Ner_training: Code to implement from scratch different models with different modalities to do Ner
+```markdown
+1. Ner_pretrained: Code to do NER task with a pretrained model
+2. Ner_BiLstm: Code to implement from scratch a BiLstm to do NER
+3. Ner_training: Code to implement from scratch different models with different modalities to do Ner
+```
